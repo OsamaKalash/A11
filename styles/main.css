@@ -53,10 +53,15 @@ main {
 
 main h1{
 	font-size: 150%;
-	border-top: 3px solid #931420;
-	border-bottom: 3px solid #931420;
+	border: 5px double #931420;
+	box-shadow: 3px 3px #222222;
+	border-radius: 10px;
 	padding-top:.3em;
 	padding-bottom:.3em;
+	background-color: white;
+	padding-left: 10%;
+
+
 }
 
 main h2{
